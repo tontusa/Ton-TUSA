@@ -19,5 +19,7 @@ All TRADING info - https://www.geckoterminal.com/ru/ton/pools/EQAU1JqHkELX5ngZ0O
 
 SWAP DEX here - https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=EQBRQhEdXWcVJ1sHYIqUrsYXzt9KkBqQSkFjiXjIDWwm5VO1
 
+white-paper - https://github.com/tontusa/Ton-TUSA/edit/main/white-paper
 
+road-map - https://github.com/tontusa/Ton-TUSA/edit/main/road-map
 
